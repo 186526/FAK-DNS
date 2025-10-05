@@ -14,6 +14,7 @@
 [/beacons3.gvt2.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/c.admob.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/c.android.clients.google.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/c.pki.goog/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cache-management-prod.google.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cache.pack.google.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/checkin.gstatic.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
