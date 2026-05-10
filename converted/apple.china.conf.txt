@@ -31,6 +31,7 @@
 [/cl1-cdn.origin-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cl1.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cl2-cn.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/cl2.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cl2.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cl3-cdn.origin-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/cl3.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -56,6 +57,7 @@
 [/gs-loc-cn.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gs-loc.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gsp10-ssl-cn.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/gsp11-cn.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gsp12-cn.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gsp13-cn.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gsp4-cn.ls.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -74,8 +76,6 @@
 [/guzzoni.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guzzoni.smoot.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/iadsdk.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/icloud-cdn.icloud.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/icloud.cdn-apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/images.apple.com.edgekey.net.globalredir.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/init-kt.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/init-p01md-lb.push-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -108,20 +108,16 @@
 [/mesu.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ml.cdn-apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/music.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/ocsp-lb.apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ocsp.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/ocsp2-lb.apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ocsp2.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/oscdn.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/oscdn.origin-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/osxapps.itunes.g.aaplimg.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pancake.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/pancake.cdn-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pba0.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/probe.siri.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/prod-support.apple-support.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/publicassets.cdn-apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/reserve-prime.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/s.mzstatic.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/seed-sequoia.siri.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/seed-swallow.siri.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
