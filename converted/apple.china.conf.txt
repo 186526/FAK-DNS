@@ -103,6 +103,7 @@
 [/itunes-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/itunes.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/itunesconnect.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/mensura.cdn-apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/mesu-cdn.apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/mesu-china.apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/mesu.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
