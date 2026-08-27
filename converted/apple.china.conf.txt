@@ -64,6 +64,7 @@
 [/gsp4-cn.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gsp5-cn.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gsp85-cn-ssl.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/gspe11-2-cn-ssl.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gspe19-2-cn-ssl.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gspe19-cn-ssl.ls.apple.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
