@@ -792,7 +792,6 @@
 [/0769sx.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/0769web.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/076lvo.xyz/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/077.xin/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/0771.tv/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/07712008.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/07715555555.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -2739,7 +2738,6 @@
 [/20240828.xyz/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/2024qq.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/2025.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/2026cname.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/202m.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/202wan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/2048ai.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -4131,7 +4129,6 @@
 [/37game2.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/37gjw.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/37gogo.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/37gowan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/37hr.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/37k.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/37kx1.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -5267,7 +5264,6 @@
 [/51goods.vip/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/51google.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/51gouke.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/51gowan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/51gpt.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/51gran.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/51grb.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -8303,6 +8299,7 @@
 [/8889997777.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/888ban.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/888chem.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/888fk.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/888lm01.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/888pic.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/888ppt.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -8830,7 +8827,6 @@
 [/92fox.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/92gyw.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/92hidc.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/92jzh.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/92kaifa.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/92kk.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/92le.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -9084,6 +9080,7 @@
 [/969368.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/96966.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/969g.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/969mak.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/96ac893dd11011.beer/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/96caifu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/96cc09c581022.beer/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -9678,9 +9675,6 @@
 [/aads-cng.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aafanke.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aafxw.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/aai07251mu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/aai07260mu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/aai07280mu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aakss.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aaltosemi.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aamets.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -11740,7 +11734,6 @@
 [/amemv.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/amemv.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ameow.xyz/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/americachineselife.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/amethystum.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/amexpressnetwork.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ameya360.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -12179,7 +12172,6 @@
 [/anyrui.win/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/anysafer.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/anyscdn.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/anyskygame.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/anysql.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/anytesting.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/anyun100.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -13071,7 +13063,6 @@
 [/augsky.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/augurit.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/augustcn.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/auiou.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aukcl.win/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/aulacn.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/auldey.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -15414,6 +15405,7 @@
 [/bhidi.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bhiv.pro/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bhjcsc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/bhjh168.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bhjinghao.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bhjjj360.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bhjuxian.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -16621,6 +16613,7 @@
 [/bkcloud.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bkclouds.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bkcode.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/bkd898.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bkdou.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bkeconomy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bkill.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -17032,7 +17025,6 @@
 [/boldfrontierdesign.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/boldseas.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bole-china.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/bole.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bole.name/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bole766.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/bolead.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -19149,7 +19141,6 @@
 [/ccschangsha.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ccscrbyy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ccsedqrmyy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/ccsfuchan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ccsjhbj.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ccskqyy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ccsngqyy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -30847,7 +30838,6 @@
 [/dztugongbu.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/dztv.tv/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/dztz168.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/dzvv.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/dzwad.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/dzwebs.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/dzwindows.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -32231,7 +32221,6 @@
 [/enthalpy.space/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/entive.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/entstudy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/entts.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/enuomachinery.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/envi-ch.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/envisionagents.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -32544,7 +32533,6 @@
 [/essyy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/estandonhotel.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/esteellink.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/estelchina.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/estonegroup.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/estory365.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/estrongs.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -32773,6 +32761,7 @@
 [/evget.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/evgezphv.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/evhui.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/evhzzh.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/evideostb.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/evileyesaint.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/evilleaker.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -34599,7 +34588,6 @@
 [/fjtelecom.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/fjtp.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/fjtv.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/fjvs.org/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/fjwanan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/fjwjgs.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/fjwr.xyz/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -36252,7 +36240,6 @@
 [/ganyu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ganyu8.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ganyurc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/ganzhe.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ganzhishi.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ganzhong.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ganzitv.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -36373,7 +36360,6 @@
 [/gaoxinedu.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gaoxinjy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gaoxitech.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/gaoyawang.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gaoyizaixian.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gaoyoujob.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/gaozhaiedu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -39196,7 +39182,6 @@
 [/guangxima.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guangximinhang.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guangxinengyuan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/guangxipubeihuaheng.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guangxircw.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guangxishangfu.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guangxishuizhiyangzhigongsi.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -39477,7 +39462,6 @@
 [/guoguangmold.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guoguo-app.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guohanlawfirm.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/guohaokeji.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guohongxin.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guohu360.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/guohua88.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -47276,6 +47260,7 @@
 [/huayimedia.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/huayiming.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/huayin114.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/huayin99.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/huayingglass.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/huayingrc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/huayingsc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -50993,7 +50978,6 @@
 [/iquaveizeeru.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ique.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/iquegui.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/iquhuo.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/iquickfish.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/iqujing.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/iqunix.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -52179,6 +52163,7 @@
 [/jdmwk.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jdmy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jdnews.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/jdo2c.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jdon.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jdpay.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jdpaydns.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -52604,7 +52589,6 @@
 [/jiancent.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jiancepai.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jiancepaper.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/jianchacha.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jianchiapp.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jianchihu.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jiandaima.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -54203,6 +54187,7 @@
 [/jllyzxyy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jlmhk.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jlmuban.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/jlmy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jlnku.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jlnls.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jlonline.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -55793,7 +55778,6 @@
 [/juyuan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/juyuewang.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/juyun.tv/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/juyutube.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/juyuweb.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/juzhen.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/juzhen.io/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -55836,6 +55820,7 @@
 [/jvyou.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jw100.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jw1588.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/jwangzhong.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jwappgc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jwautoparts.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/jwbf.online/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -58569,6 +58554,7 @@
 [/kyw4y0s.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/kyxdloan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/kyxh.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/kyxinli.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/kyxsw.org/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/kyy6.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/kyzhpt.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -60100,7 +60086,6 @@
 [/liansaipiao.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lianshang.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lianshijie.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/lianshun.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/liansn.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/liansuo.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/liantianhong.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -61420,6 +61405,7 @@
 [/longbridgehk.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/longcai.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/longcai027.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/longcat.chat/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/longchangjixiekeji.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/longcheer.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/longchunbajiao.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -62734,7 +62720,6 @@
 [/lzmoyin.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lzmun.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lzmy123.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/lznbjz.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lznetease.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lznrlmxh.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/lzoam.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -62876,7 +62861,6 @@
 [/m9dz.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ma-china.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ma.run/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/ma3office.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ma3you.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ma5000.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/maa.plus/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -66005,7 +65989,6 @@
 [/msits.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/msjingmi.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/msjpay.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/mskoo.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/mslmc.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/msltbio.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/mslzk.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -70656,7 +70639,6 @@
 [/p2cdn.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/p2hp.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/p2p001.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/p2pcq.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/p2peye.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/p2peye.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/p2psearchers.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -71805,7 +71787,6 @@
 [/pioneer-pku.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pioneerchina.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pioneerep.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/pioneernews.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pipa.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pipacoding.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/pipahealth.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -73242,6 +73223,7 @@
 [/qfiee.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/qfihdr.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/qfkjnb.club/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/qflyinc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/qfns1.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/qfpay.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/qfpq.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -77251,8 +77233,6 @@
 [/s135.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/s163.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/s1979.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/s1blsecgerto.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/s1blseclvira.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/s1craft.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/s1mple.cc/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/s1mplecode.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -77687,7 +77667,6 @@
 [/saywash.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sayyas.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sazeoq8158.vip/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/sb1secapply4.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sbc-mcc.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sbf56.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sbh15.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -83721,7 +83700,6 @@
 [/stg-certified-timestamp.globalsign.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/stg8.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/stgiantfilms.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/stgowan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sthforme.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sthifi.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/sthke.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -86776,7 +86754,6 @@
 [/tech002.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tech1024.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tech110.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/tech2ipo.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tech2real.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tech4joy.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/techan.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -87340,6 +87317,7 @@
 [/tg0123.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tg1234.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tg138.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/tgalileo.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tgametalent.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tgbus.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/tgcid.org/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -101530,6 +101508,7 @@
 [/ydjwy.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ydjy.net/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ydkj2019.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
+[/ydkkej.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ydl-sh.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ydl.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ydlcdn.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
@@ -103299,7 +103278,6 @@
 [/ynztrq.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ynztzh.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/ynzy-tobacco.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
-[/ynzzwl.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/yo4399.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/yoagoa.com/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
 [/yobo.ink/]quic://dns.alidns.com tls://dns.alidns.com tls://dot.pub 223.5.5.5 119.29.29.29
