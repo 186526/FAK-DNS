@@ -14,17 +14,17 @@ jobs:
       uses: actions/checkout@v3
 
     - name: Set up Python
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v5
       with:
-        python-version: 3.9
+        python-version: '3.12'
     
     - name: Install dependencies
       run: pip3 install glob2
 
     - name: Convert Conf Files
       env:
-        CN_DNS: ${{ vars.CN_DNS }}
-        THE_DNS: ${{ vars.THE_DNS }}
+        CN_DNS: ${{ secrets.CN_DNS }}
+        THE_DNS: ${{ secrets.THE_DNS }}
       run: python convert.py
 
     - name: Check for changes
